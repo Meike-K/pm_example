@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# folders emerging through running
+dask-worker-space/*
+output/*
+.ipynb_checkpoints/*
+
